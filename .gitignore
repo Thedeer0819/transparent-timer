@@ -1,0 +1,22 @@
+# 工作区元数据
+.workbuddy-ai/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地配置与成绩数据
+timer_config.json
+timer_config.json.tmp
+
+# 导出的成绩
+*.csv
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
